@@ -20,7 +20,7 @@ header {
 }
 
 .header-background {
-    background-image: url('../assets/slike/ja.jpeg'); /* Path to ja.jpg */
+    background-image: url('ja.jpeg'); /* Path to ja.jpg */
     background-size: cover; /* Make the image cover the entire header */
     background-position: center; /* Center the image */
     width: 100%;
